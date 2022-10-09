@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anktsverma" alt="anktsverma" /></a> </p>
 
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **HTML, CSS, C++, React**
+- 💬 Ask me about **HTML, CSS, C++, React, Nodejs, Express, MongoDB**
 
 - 📫 How to reach me **anktsverma@gmail.com**
 
